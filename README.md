@@ -1,2 +1,2 @@
 # shiftbridge
-might be working on a Among Us clone. Wait to much info.
+just another guy learning Unity. beter than godot
