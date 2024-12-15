@@ -1,2 +1,2 @@
 # shiftbridge
-just another guy learning Unity. beter than godot
+just a coder who codes things. yeah thats it
