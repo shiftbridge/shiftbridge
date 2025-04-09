@@ -1,2 +1,2 @@
 # shiftbridge
-just a coder who codes things. yeah thats it
+some random GitHub account with stuff
